@@ -1,0 +1,22 @@
+{
+  "name": "gtest",
+  "version": "1.0.0",
+  "description": "gulp test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hi\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aweidele/gtest.git"
+  },
+  "author": "Aaron Weidele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aweidele/gtest/issues"
+  },
+  "homepage": "https://github.com/aweidele/gtest#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
